@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Stonehaugh Lamp Co.</title>
+    <link
+      href="https://fonts.googleapis.com/css?family=Anton%7CBaskervville%7CRaleway&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://use.fontawesome.com/releases/v5.8.2/css/all.css"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+  <main>
+    <section>
+  <header id="header">
+    <img id="header-img" src="https://cdn.shopify.com/s/files/1/0550/2635/2261/products/8UlM5zgtI3.jpg"> 
+    <h1>Stonehaugh Lamp Co.</h1>
+    <nav id="nav-bar">
+      <ul>
+        <li><a class="nav-link" href="#header">Home</a></li>
+        <li><a class="nav-link" href="#About">About</a></li>
+        <li><a class="nav-link" href="#FAQ">FAQs</a></li>
+      </nav>
+  </header>
+  </section>
+  <div>
+  <section id="About">
+  <h2>About</h2>
+  <p>Our unique products comprise of locally-sourced recycled materials, beautifully handcrafted into one-off lamps and home accessory pieces.
+  </section>
+ </div> 
+ <div>
+<section id="FAQ">
+<h2>FAQs</h2>
+<h3>Where is Stonehaugh Lamp Co. based?</h3>
+<p>We are based in Stonehaugh, Northumberland which is a small hamlet on the edge of Kielder Forest Park.</p>
+<h3>How can I buy your products?</h3>
+<p>We currently have items available for purchase on <a href="https://www.numonday.com/shop/stonehaugh-lamp-company-store/">numonday</a> and <a href="https://upcite.co.uk/pages/seller-profile?stonehaugh-lamp-co">Upcite</a>.</p>
+</section>
+</div>
+<section id="mailing-list">
+  <div>
+  <p>Please enter your email below to subscribe for updates!</p>
+<form action="https://www.freecodecamp.com/email-submit" id="form">
+    <input id="email" placeholder="Enter your email here" type="email" name="email">
+    <input id="submit" type="submit">
+    </form>
+    </div>
+</section>
+<section id="video-area">
+<iframe id="video" width="560" height="315" src="https://www.youtube.com/embed/L_Gc-sslHq4"></iframe>
+  </section>
+</main>
+</body>
+  </html>
